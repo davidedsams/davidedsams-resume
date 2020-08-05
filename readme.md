@@ -1,1 +1,1 @@
-This repo is just an exercise so I can practice making json files using node and similar activities. My linked resume is obviously not finished or completely accurate at the moment.
+This repo is just an exercise so I can practice making json files using packages, node and similar activities. My linked resume is obviously not finished or completely accurate at the moment.
