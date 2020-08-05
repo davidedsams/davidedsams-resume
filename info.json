@@ -1,0 +1,21 @@
+{
+    "name": "David Edward Sams",
+    "website": "https://github.com/davidedsams",
+    "linkedin": "www.linkedin.com/in/davidedwardsams",
+    "github": "davidedsams",
+    "email": "davidedsams@gmail.com",
+    "resume": "https://drive.google.com/file/d/1jtve0km9EuByWJHM1kFE2S5mtS4Mxf3R/view?usp=sharing",
+    "proficientTechnologies": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Node",
+    ],
+    "otherSkills": [
+        "Music",
+        "Writing",
+        "Cooking",
+        "Hacky Sack"
+    ]
+}
